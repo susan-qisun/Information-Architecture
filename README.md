@@ -1,7 +1,8 @@
 # The Impact of Twitter Sentiment on University Applications
 
 Developed an automated analytics solution for tracking sentiment on social media and its impacts on the total of university's applications
-- Scraped and cleaned tweets and performed sentiment analysis with Python; extracted application data from university database using SQL
+- Use SQL, Python, Tableau, AWS
+- Scraped and cleaned tweets and performed sentiment analysis with Python; extracted application data from university database
 - Designed the E-R model, built OLTP and OLAP databases with stored procedures in MySQL; imported all data into the database
 - Set up the AWS environment with RDS, S3, Lambda, SNS, and CloudWatch; developed Python scripts for Lambda
 - Built interactive dashboards and visualizations in Tableau with a live connection to MySQL database
