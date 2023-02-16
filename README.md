@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/susan-qisun/Information-Architecture/main/03.%20Visualization/Tableau04_screenshot.png" width=70% height=70%>
 
 
-# Information-Architecture
+# Process Automation 
 
 -By Susan Qi Sun
 
